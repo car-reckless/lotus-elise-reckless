@@ -1,0 +1,13 @@
+site_name: "Lotus Elise: Guía del aficionado temerario"
+nav:
+  - Home: index.md
+  - General:
+      - Mantenimiento: maintenance.md
+      - Subir el coche: lift.md
+      - Fusibles: fuses.md
+      - Desmontar Clam delantero: front-clam-removal.md
+      - Problemas: wiki.seloc.org/Troubleshooting.md
+
+theme:
+  name: readthedocs
+site_url: https://car-reckless.github.io/lotus-elise-reckless/

@@ -1,9 +1,7 @@
-de https://wiki.seloc.org/a/Troubleshooting
+Traducción de <https://wiki.seloc.org/a/Troubleshooting>
 
 
 # Solución de problemas
-
-## Introducción
 
 Sé muy poco sobre motores. Cuando mi coche no arranca, no tengo ni idea de qué hacer, dónde mirar o qué probar. Es deprimente y te sientes impotente.
 

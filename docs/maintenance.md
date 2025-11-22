@@ -14,10 +14,10 @@
 - Enrosca el filtro en su lugar y aprieta a mano.
 - Una vez que la junta toque el bloque gira 3/4 de vuelta.
 - Comprueba que el nivel de aceite sobrepasa el mínimo.
-  - Toyota 2ZZ: 4.4 litros incluyendo el filtro.
+    - Toyota 2ZZ: 4.4 litros incluyendo el filtro.
 - Quitar el fusible de la bomba de gasolina e intenta arrancar para que el motor se mueva.
-  - Rover: fusible 4
-  - Toyota 2ZZ: fusible 1 (20A)
+    - Rover: fusible 4
+    - Toyota 2ZZ: fusible 1 (20A)
 - Pon de nuevo el fusible.
 - Arranca el motor y comprueba posibles pérdidas.
 - Comprueba el nivel de aceite cuando esté caliente (~5min).
@@ -42,13 +42,13 @@
 ## Piezas y equivalentes (Rover 120CV MEMS3 No-VVC)
 
 - Sensor CMP
-  - Ref Lotus: A117E6107S
-  - Ref Rover/MG: NSC000310
+    - Ref Lotus: A117E6107S
+    - Ref Rover/MG: NSC000310
 
 - Cable del sensor CMP
-  - Ref Lotus: A117E6108S
-  - Ref Rover/MG: NSC100930L
+    - Ref Lotus: A117E6108S
+    - Ref Rover/MG: NSC100930L
 
 - MFRU
-  - Ref Lotus: A111M6024F
-  - Ref Rover/MG: YWB100970
+    - Ref Lotus: A111M6024F
+    - Ref Rover/MG: YWB100970
