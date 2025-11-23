@@ -1,11 +1,11 @@
 build:
-	mkdocs build
+	uv run mkdocs build
 
 view: build
-	open _build/html/index.html
+	open site/index.html
 
 serve:
-	mkdocs serve --verbose --livereload
+	uv run mkdocs serve --verbose --livereload
 
 deploy:
-	mkdocs gh-deploy --clean --force
+	uv run mkdocs gh-deploy --clean --force
