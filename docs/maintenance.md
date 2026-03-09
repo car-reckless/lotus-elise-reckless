@@ -1,5 +1,10 @@
 # Mantenimiento
 
+## Líquidos
+
+- Líquido de frenos: Castrol React Performance DOT 4
+
+
 ## Cambio de aceite
 
 - Mantén el motor en marcha 5 min para que el aceite sea algo más líquido.
