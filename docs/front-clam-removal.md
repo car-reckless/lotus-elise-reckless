@@ -1,7 +1,7 @@
 # Desmontar clam delantero
 
-- Desmontar los paneles de acceso (front access panel),
-- Desmontar las rejillas del radiador y las piezas de soporte montadas sobre el borde superior del radiador.
+- Desmontar los paneles de acceso (front access panel), las rejillas del radiador y sus piezas de soporte montadas sobre el borde superior del radiador.
+- Desmontar panel delantero inferior (panel front undershield).
 - Quitar las 2 tuercas situadas por debajo del centro del clam.
 - Desconectar el sensor de apertura del panel de acceso.
 - Quitar la rueda delantera.
